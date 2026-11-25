@@ -1,19 +1,24 @@
 # Reference-inspired visual direction
 
-The user supplied a YouTube tutorial as a visual reference. Automated video analysis reported a polished AI-assisted documentary language: a fast “show the result first” opening; dark, moody presenter lighting with deep teal and warm accents; muted archival and microfilm textures; red marks for highlighting evidence; short documentary visuals that change around every one to three seconds; dossier labels; simplified maps and diagrams; paper, typewriter and restrained digital sound effects; and a driving but subordinate music bed.
+The creator-provided reference informed a broad documentary language: a fast “show the result first” opening; dark moody lighting with deep teal and warm accents; muted archival/microfilm textures; red marks for highlighting; short visual beats; concise dossier labels; simplified maps; tactile paper/typewriter sounds; and a driving but subordinate score.
 
-This project interprets those broad techniques for true crime. It does not reproduce the tutorial's exact frames, script, branding, or assets.
+Interpret these principles in an original visual system. Do not reproduce the reference tutorial's exact frames, script, brand, edit, voice, footage or assets, and do not imply affiliation with a streaming service or studio.
 
 ## Art direction
 
-- **Palette:** near-black charcoal, desaturated teal, warm paper, and restrained evidence red.
-- **Surface language:** photocopy grain, case folders, map grids, paper edges and restrained scan lines. Use texture subtly so evidence remains readable.
-- **Typography:** clear condensed sans-serif for file labels; highly legible text for captions and dates. Use locally available fonts and record any fallback.
-- **Framing:** landscape documentary works in 16:9 with optional narrow letterbox; Shorts use 9:16 and protect safe areas.
-- **Motion:** move through a map, a file, or one evidence layer at a time. Prefer purposeful pans, small push-ins and clean red annotation reveals over constant movement.
-- **Rhythm:** establish a question in the opening seconds; refresh the visual every 1–3 seconds where the spoken information changes; allow enough hold time to read dates, names and citations.
-- **Sound:** foreground narration, a restrained percussive bed, sparse paper/typewriter/soft digital accents. Do not use effects to imply a factual event that is not documented.
+- **Palette:** near-black charcoal, desaturated teal, warm paper and restrained evidence red.
+- **Surface language:** subtle photocopy grain, case folders, map grids, paper edges and scan lines. Keep texture behind, not over, readable evidence.
+- **Typography:** a clear sans-serif for file labels and high-legibility captions. Use locally available fonts and record any fallback.
+- **Framing:** landscape documentary in 16:9 with optional narrow letterbox; Shorts in 9:16 with platform safe areas.
+- **Motion:** make a still feel like a scene. Use deliberate pans, modest push-ins/pull-outs, layered parallax, animated crops, paper reveals and match cuts. Change the visual idea every 1–3 seconds only when the spoken information changes, and hold long enough to read.
+- **Evidence marks:** reveal red pencil circles, underlines, arrows and connecting lines as animated strokes, following a believable pen path and syncing to Foley. Use a board/relationship reveal only when the relationship is supported by the case facts; for fictional stories, label the board and props as fictional.
+- **Transitions:** rotate among a small coherent set—paper wipe, match cut, map pan, restrained whip-pan, snap zoom and split-screen. Use fast movement for deliberate reveals, not as a constant effect. Preserve captions, names, dates and citations.
+- **Sound:** foreground narration, low percussive atmosphere and sparse paper/typewriter/pencil/pin/soft digital cues. Match effects to visible actions and never imply an undocumented event.
+
+## Still-image-only option
+
+When selected by the creator, use photographs, illustrations, generated stills, original graphics and typography as the only picture sources. Animate and assemble those stills into the final MP4; do not use video clips or stock footage. Maintain a manifest that distinguishes sourced factual images from fictional or generated illustrations.
 
 ## Reference analysis summary
 
-The tutorial's process emphasizes reference gathering, moodboarding, creating a reusable asset list, iterative correction for readability, and separating animation design from final sound/edit assembly. Apply that as a practical sequence: define the visual system, inventory authentic sources, map one visual idea to each line, create or source assets, assemble, then check legibility and audio sync.
+The reference tutorial emphasizes research, moodboarding, a reusable asset list, iterative readability checks and separation of animation design from final sound/edit assembly. Apply that sequence: define the visual system, inventory authentic sources, map one visual idea to each spoken beat, create/source assets, animate and assemble, then verify captions and audio sync.

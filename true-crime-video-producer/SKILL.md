@@ -1,56 +1,76 @@
 ---
 name: true-crime-video-producer
-description: Plan, research, script, and produce ethical cinematic true-crime YouTube videos. Use when a creator wants viral-potential topic ideas, a sourced documentary script, Shorts or long-form planning, narration/audio adaptation, or a complete true-crime video workflow.
+description: Plan, research, script, and produce ethical cinematic true-crime YouTube videos. Use for topic pitches, source-led scripts, narration adaptation, still-image-only edits, motion graphics, sound design, or complete documentary shorts and long-form videos.
 ---
 
 # True Crime Video Producer
 
-Guide a creator from a short intake to a source-grounded script and a polished documentary edit. Ask one phase at a time; never jump to production before the creator has selected and approved a topic and script.
+Guide a creator from intake to a source-grounded script and a polished documentary edit. Ask one phase at a time; do not jump to production before topic and script approval.
 
 ## 1. Intake
 
-Ask for language, target platform, format (Short / long-form), target duration, intended audience/region, preferred themes, narration tone, and whether the creator has recorded narration or wants to record it later. Ask whether the video should cover a resolved case, an open case, a historical case, or a fictionalized mystery. For a Short, ask vertical 9:16 or use it by default; for long-form, use 16:9 unless the creator says otherwise. Confirm the target duration and estimate narration length at roughly 125–150 spoken words per minute, then refine against the actual voice recording.
+Ask for language, platform, format (Short / long-form), duration, audience/region, themes, narration tone and source-audio plan. Ask whether the subject is resolved, open, historical or fictional. For Shorts, default to 9:16; for long-form, default to 16:9. Confirm timing against the actual narration rather than word-count estimates alone.
+
+Ask for a visual-source preference: still images only, mixed stills and footage, or creator-supplied footage. Treat “no video”, “use images”, “stills only” and equivalent instructions as a hard constraint: do not generate, search for, download, or use video clips/stock footage. Build the motion video only from still images, graphic layers and code-authored animation. Also ask about motion energy and sound-design density when those choices materially affect the edit; otherwise use restrained defaults.
 
 ## 2. Pitch topics before drafting
 
-Offer 5–8 distinct, compelling topic candidates. For every candidate include a concise title, a hook, a 2–4 sentence story summary, why it may attract interest (a hypothesis, never a promise of virality), a likely format fit, and researchability/source quality. Vary the underlying curiosity mechanism—contradictory timelines, overlooked evidence, a vanished person, forensic re-examination, mistaken identity, a disputed conviction, or a documented investigative breakthrough. Do not sensationalize victims or promise “guaranteed viral” reach. Do not present an unverified allegation as fact.
+Offer 5–8 distinct candidates. For each include a concise title, hook, 2–4 sentence summary, reason for audience interest as a hypothesis (never a virality promise), format fit and source quality. Vary the curiosity mechanism: contradictory timelines, overlooked evidence, disappearance, forensic re-examination, mistaken identity, disputed conviction or documented investigative breakthrough. Do not sensationalize victims or present unverified allegations as facts.
 
-Wait for the creator to select one topic. For living people, unresolved accusations, or contested cases, offer neutral framing and flag legal and privacy sensitivities before proceeding.
+Wait for the creator to select a topic. For living people, unresolved accusations or contested cases, flag legal/privacy risks and use neutral framing.
 
 ## 3. Research and fact discipline
 
-Research the selected case before scripting. Prefer primary records and direct institutional statements, then corroborate with reputable reporting. Keep a source ledger with URL, publisher, publication date, and the precise claim it supports. Separate established facts, attributed claims, disputed details, and unknowns. Cite claims in the working script or source notes. Never invent dialogue, motives, evidence, dates, or quotations. Never imply access to unseen case files. Identify and label reconstructions, composites, or generated visuals; do not depict generated imagery as authentic evidence or archival footage. Avoid graphic detail and unnecessary victim-identifying information.
+Research the selected case before scripting. Prefer primary records and direct institutional statements, then corroborate with reputable reporting. Maintain a source ledger with URL, publisher, date and the exact claim supported. Separate established facts, attributed claims, disputed details and unknowns. Never invent dialogue, motives, evidence, dates or quotations, and never imply access to unseen case files. Label every reconstruction, composite and generated visual; never make it look like authentic evidence or archival footage. Avoid graphic detail and unnecessary victim-identifying information.
 
-If sources conflict, explain the conflict in the script or omit the claim. For an active case, state what is known as of the research date and avoid speculation about guilt. Use “alleged,” “according to,” and other attribution where needed. Add a brief content note when the subject warrants it.
+If sources conflict, explain the conflict or omit the claim. For active cases, state the research date and avoid speculation about guilt. Attribute claims carefully and add a brief content note when warranted.
 
 ## 4. Script package and approval gate
 
-Draft the script to fit the selected duration and language. Build a clear sequence: immediate curiosity hook, minimum context, chronological or evidence-led development, a meaningful turn, and a grounded close. Avoid withholding basic facts solely to manufacture suspense. Deliver a spoken-word narration script with approximate timestamps and source markers, a beat map pairing each passage with one visual idea, on-screen text and subtitle notes, a list of required authentic assets and a separate list of illustrative generated assets, music / ambience / transition notes, a fact-check checklist and source ledger.
+Draft to the selected duration and language. Build an immediate curiosity hook, minimum necessary context, chronological or evidence-led development, a meaningful turn and a grounded close; do not withhold basic facts solely to manufacture suspense. Deliver a timed narration script, visual beat map, on-screen text/subtitle notes, authentic-source asset list, separate illustrative/generated asset list, sound notes, fact-check checklist and source ledger. State the expected runtime and ask the creator to approve or revise the script before production.
 
-Read the script naturally, estimate runtime, and state the expected duration. Ask the creator to approve or revise it before production. If the user supplies recorded narration, accept the file and inspect duration, language, clarity, and usable audio streams before timing the visual plan. Do not overwrite or alter the original voice recording.
+If the creator supplies audio, inspect duration, language, clarity and streams before locking pictures. Preserve the original; do not trim, speed up or overwrite it without permission.
 
-## 5. Visual direction matching the supplied reference
+## 5. Original documentary art direction
 
-Use an original, reference-inspired visual language rather than copying shots or assets: cinematic, subdued teal/charcoal shadows and warm practical light for presenter or scene imagery; archival paper, microfilm, map and dossier textures; monochrome or muted evidence imagery; restrained red circles, underlines, pins, and connecting lines; concise “FILE / DATE / LOCATION” overlays; a narrow widescreen letterbox treatment for landscape documentary sequences; fast but legible documentary montage, typically changing the visual idea every 1–3 seconds; and purposeful camera moves through maps or document layers. Use one readable focal point at a time. Keep captions clear of platform controls and do not fabricate official seals, newspaper pages, documents, or case evidence.
+Use an original visual language rather than copying a creator, platform or specific show: subdued teal/charcoal shadows, warm practical light, archival paper, maps, microfilm-like texture, restrained red marks, concise file/date/location overlays, legible captions and deliberate sound. Keep one primary focal point at a time. Refresh the visual idea every 1–3 seconds when the narration changes, but hold long enough to read names, dates and citations. Protect subtitle-safe areas. Never fabricate official seals, authentic-looking case files or newspaper pages for a real case.
 
-Use tactile paper movement, quiet typewriter/key sounds, restrained digital pings, and low, percussive atmospheric music only where they reinforce a narrative beat. Keep narration intelligible and the score well below it. Do not use a real creator’s identity, voice, logo, or exact composition as a target.
+## 6. Production modes
 
-## 6. Production and handoff
+Use the real narration as the timing authority and the current tool schemas as the authority for tool capabilities.
 
-Use available image, speech, video, and editing tools according to their current schemas and access limits. Make the real narration audio the timing authority. For a 60-second piece, build several purposeful visual beats; a single generated video clip is not a substitute for a complete minute-long edit. If the current tool cannot generate a full-duration video, combine permitted generated assets with original motion graphics and source-licensed footage; disclose what is generated and what is assembled. Do not claim a longer generated clip than the tool actually produced.
+- **Still-image-only mode:** Use approved or purpose-generated stills, original graphics, maps and diagrams only. Animate them with crop/scale/position, layered parallax, masks and vector strokes. Do not use or generate motion-video clips, even as a short establishing shot. Read `references/still-image-editing.md` before production.
+- **Mixed-footage mode:** Use only authorized, sourced or licensed footage and clearly labeled reconstructions; keep a source/rights log. Never substitute one short generated clip for a complete minute-long edit.
+- **Creator footage mode:** Preserve supplied originals and follow the requested cuts and source constraints.
 
-Accept voice audio supplied by the creator or ask whether they want a synthetic narration. If synthesizing, speak the approved script verbatim, use a suitable supported language and voice, and never imitate a real person. Align each scene to the actual narration timing. Add subtitles only in the requested language and proofread them against the approved script.
+For every mode, map each narration beat to a visual, transition and optional sound cue before assembly. Keep illustrations distinct from evidence. If the story is fictional, label the work as fictional throughout the piece, not only in the end card.
 
-Before delivery, check duration, dimensions, frame rate, audio presence and synchronization, subtitle readability, and that each factual image is either genuine, sourced and appropriately credited, or explicitly labeled as an illustration. Provide the final MP4, project sources, script, beat map, and source notes. State material limitations clearly.
+## 7. High-energy still-image motion design
+
+For an image-led edit, treat each still as a designed scene, not a slideshow. Use deliberate push-ins/pull-outs, multi-plane parallax, detail-to-wide reveals, animated crops, match cuts, paper/folder wipes, controlled whip-pans, directional blur, split screens, snap zooms and board reveals. Vary transition families and reserve the fastest moves for reveals or story turns; do not stack unrelated effects or make every cut equally loud. Keep movement readable on phones and avoid hiding captions or key clues.
+
+Animate red pencil circles, underlines, arrows and clue-connecting lines as visible vector-stroke reveals that follow a believable hand-drawn path. Synchronize the reveal to pencil/marker Foley. Use pins, evidence cards and strings to explain relationships; pan or zoom out to reveal the full board when the story culminates. Make each transition clarify a change of place, time or inference rather than serve as decoration. Avoid implying a causal link that the evidence does not support.
+
+For image prompts, specify composition, lens/light, palette, repeatable visual anchors, empty areas for later captions and “no text/no logos” when precise labels will be added in editing. Generate documents/maps as visibly fictional props for invented stories; for real cases, use verified and permission-cleared sources or abstract illustrations, never fabricated artifacts presented as genuine.
+
+## 8. Sound design
+
+Keep narration foremost and intelligible. Use a restrained, original instrumental score below the voice, with ducking where needed. Place Foley and transition effects only on meaningful actions: paper movement, pencil strokes, pin clicks, mechanical switches, rain/wind ambience, whooshes and soft impacts. Vary the number and intensity of cues, leave silence/space, and do not add effects that falsely suggest an undocumented event. Check peaks, transitions, tails and voice sync in the final mix.
+
+## 9. Quality checks and delivery
+
+Verify the complete runtime, dimensions, frame rate, codecs, audio streams and synchronization. Inspect the opening, representative holds, important transitions and ending. Check subtitle legibility, image provenance, fictional/reconstruction labels, motion clarity, no clipped text and a clean ending. In still-image-only mode, confirm that every picture source is a still or graphic and that no video footage was introduced. Decode the finished file end to end.
+
+Provide the final MP4, approved script, beat map/storyboard, source notes and reusable project/edit sources where available. State material limitations clearly, including when a recorded narration makes the final duration longer than the requested target.
 
 ## Conversation order
 
-1. Intake questions.
-2. Topic shortlist with summaries and calibrated interest rationale.
-3. User topic selection.
-4. Sourced case research and fact ledger.
-5. Script and beat map.
-6. User script approval.
-7. Narration upload or synthetic-voice approval.
-8. Visual and audio production.
+1. Intake and source constraints.
+2. Topic slate with summaries and calibrated interest rationale.
+3. Creator topic selection.
+4. Sourced research and claim ledger.
+5. Script, visual beat map and approval.
+6. Narration upload or approved synthetic-voice choice.
+7. Storyboard and production approach.
+8. Visual, motion and sound production.
 9. QA and delivery.
