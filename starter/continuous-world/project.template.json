@@ -1,0 +1,40 @@
+{
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "duration": 12.0,
+  "output": "continuous-world.mp4",
+  "voiceover": null,
+  "language": "en",
+  "text_size": 42,
+  "camera_drift": [0.8, 0.25],
+  "handheld": 0.45,
+  "motion_blur_strength": 0.00035,
+  "max_motion_blur": 0.18,
+  "preset": "veryfast",
+  "crf": 18,
+  "audio_bitrate": "192k",
+  "effects": {
+    "vignette": true,
+    "grain": true,
+    "grain_strength": 0.018,
+    "glow": false
+  },
+  "camera_waypoints": [
+    {"at": 0.0, "value": [-260, -80, 1.0, 0.0]},
+    {"at": 3.0, "value": [-90, -15, 1.18, 2.0]},
+    {"at": 7.5, "value": [180, 45, 1.30, -1.0]},
+    {"at": 12.0, "value": [360, 110, 0.95, 0.0]}
+  ],
+  "objects": [
+    {"id": "file", "label": "", "shape": "box", "pos": [-240, 45], "size": [230, 180], "color": [126, 91, 60], "secondary_alpha": 0.18},
+    {"id": "map", "label": "", "shape": "box", "pos": [30, 5], "size": [320, 230], "color": [121, 133, 115], "secondary_alpha": 0.18},
+    {"id": "lamp", "label": "", "shape": "circle", "pos": [360, 115], "size": [105, 105], "color": [183, 143, 77], "secondary_alpha": 0.18},
+    {"id": "route", "shape": "route", "points": [[-30, 20], [25, 0], [90, 22], [155, 55]], "line_width": 7, "color": [190, 38, 36], "reveal": {"start": 4.4, "end": 8.6}, "secondary_alpha": 0.2}
+  ],
+  "beats": [
+    {"start": 0.0, "end": 4.0, "hero": "file", "text": {"channel": "overlay", "value": "One unexplained entry."}},
+    {"start": 4.0, "end": 8.0, "hero": "route", "text": {"channel": "none", "value": ""}},
+    {"start": 8.0, "end": 12.0, "hero": "lamp", "text": {"channel": "overlay", "value": "The light stayed on."}}
+  ]
+}

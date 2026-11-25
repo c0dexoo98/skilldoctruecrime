@@ -1,34 +1,25 @@
-# Storyboard — پروندهٔ خیالی ۳۱۷
+# Continuous-world storyboard example — fictional harbor mystery
 
-**هدف:** دموی فارسی True Crime داستانی، حدود یک دقیقه. همهٔ مکان‌ها، اشخاص، اسناد و تصاویر پرونده ساختگی‌اند؛ این نمونه گزارش پروندهٔ واقعی نیست.
+**Example only:** a fictional lighthouse mystery, not a real case. The sample demonstrates planning; it contains no project photos, audio, or evidence files. Use newly approved assets for each production.
 
-**قالب:** 16:9، landscape؛ نریشن فارسی. **منبع تصویر:** تصویرهای ثابت تولیدی/گرافیکی، بدون فوتیج یا کلیپ ویدیویی. خروجی MP4 از فریم‌های ثابتِ متحرک، تایپوگرافی، ماسک و موشن‌گرافیک ساخته می‌شود.
+**Delivery lock:** set exact aspect ratio, resolution, frame rate, codec and measured narration length during intake. **Picture rule:** no AI video generation, no stock footage, no clips, no cuts, and no slide changes. Code renders each frame on one persistent archive desk. Creator-approved photos, when supplied, appear as physical prints on that desk.
 
-| زمان | تصویر ثابت و نقش روایی | حرکت/ترنزیشن | صدا |
-|---|---|---|---|
-| 00:00–00:06 | فانوس دریایی خیالی در ساحل بارانی | روشن‌شدن پرتو، snap-zoom و آشکارشدن «۰۳:۱۷» | باران، whoosh کوتاه، ضربهٔ بم کنترل‌شده |
-| 00:06–00:14 | دفتر روزانهٔ ساختگی روی میز | زوم‌اوت از نوشتهٔ غیرقابل‌خواندن به صحنه؛ خط قرمز با ماسک رسم شود | ورق و صدای مداد |
-| 00:14–00:21 | نقشهٔ ساختگی بندر خاکستری | بازشدن کاغذ، حرکت دوربین روی نقشه و آشکارشدن پین | کاغذ، pin و whoosh |
-| 00:21–00:29 | ثبت‌کنندهٔ مکانیکی نمایشی | cropهای جزئیات؛ خط برق گرافیکی قطع و match-cut به ساعت | کلیک مکانیکی و ضربهٔ نرم |
-| 00:29–00:34 | ساعت ۰۳:۱۷ روی برگهٔ ساختگی | زوم به جزئیات و دایرهٔ مدادی متحرک دور ساعت | خش‌خش مداد و گذار کاغذی |
-| 00:34–00:42 | در قفل‌شده و پنجرهٔ سالم فانوس | split-screen کوتاه، push-in قفل و pull-out پنجره | دو کلیک و صدای محیط |
-| 00:42–00:51 | نقشه با خط تازه از برج تا اسکله | مسیر با قلم‌قرمز draw-on؛ زوم‌اوت و اتصال پونزها | مدادِ همگام و pin |
-| 00:51–00:56 | قاب عکس ساختگی با نقشهٔ دوم پشت آن | reveal از پشت قاب، match بین دو خط نقشه | جابه‌جایی قاب و reverse whoosh |
-| 00:56–01:00 پایان | تابلوی سرنخ‌های خیالی و کارت پایانی | جمع‌شدن تصاویر روی تخته؛ اتصال نقاط با خط قرمز و خروج آرام | pin/click، اوج کوتاه موسیقی و پایان کنترل‌شده |
+| Time | Verbatim narration idea | One hero | Text channel | Word-timed action | Camera waypoint / continuous move |
+|---|---|---|---|---|---|
+| 00:00–00:05 | The beacon failed at a precise hour. | Lighthouse print | None | Light fades as the phrase “went dark” is spoken. | Begin a slow diagonal glide across desk; keep drifting. |
+| 00:05–00:12 | The keeper's log predicted the opposite. | One logbook leaf | Approved handwriting on that leaf only | Pencil circle completes on the contradiction. | Continue push-in; ease without stopping. |
+| 00:12–00:19 | A storm covered the fictional harbor. | One harbor map | One place label only | Rain glints in the lamp pool; map stays legible. | Arc across map, same desk plane. |
+| 00:19–00:27 | A mechanical recorder still ran. | One recorder photo/print | None | Paper trace advances at the spoken “until morning.” | Pull back and drift toward the paper. |
+| 00:27–00:34 | The last page shows the time. | One marked page | Time appears once on the physical page | Circle draws exactly at the spoken time. | Smooth push; no camera reset. |
+| 00:34–00:42 | The repair crew found the door locked. | One door photograph | None | Lock catches the light; other props dim. | Glide to door print on the same surface. |
+| 00:42–00:52 | A new route links tower and pier. | One route map | None | Red route is revealed from origin to endpoint on the named words. | Travel along route, then gently pull back. |
+| 00:52–00:59 | The same route appears behind an old frame. | One framed map | None | Frame rotates in place to reveal the paper behind it. | Orbit continuously around the frame; preserve world direction. |
+| 00:59–end | Someone wanted the route to be followed. | One final map/photograph | No repeated title; fiction disclosure appears once if needed | Final route point lands on the last spoken word. | Ease into a drifting wide view; do not freeze or cut away. |
 
-> **اصلاح زمان پایان:** متن نمونه حدود ۶۰ ثانیه طراحی شده است؛ زمان دقیق خروجی باید با صدای واقعی هماهنگ شود. در این پروژه، فایل نریشن ارسالی ۷۲٫۱۲۴ ثانیه بود و نسخهٔ عملیاتی با همان مدت حفظ شد.
+## One-line/one-hero discipline
 
-## سامانهٔ برچسب و ایمنی
+For every actual project, replace these illustrative beats with the approved verbatim narration and audio-derived timestamps. Pick exactly one hero per line, dim non-heroes, and choose one visual text channel per phrase. Never place the same phrase on both a document and an overlay or subtitle. Avoid fake readable document copy.
 
-- برچسب دائمی: «داستان کاملاً خیالی • بازسازی نمایشی»؛ با زمینهٔ پرکنتراست و دور از زیرنویس.
-- هر نقشه، دفتر، قاب و تخته ساختهٔ روایت است؛ هیچ‌کدام نباید مدرک واقعی تلقی شوند.
-- از لوگو، مهر رسمی، تصویر قربانی واقعی و متن خبری جعلی استفاده نشود.
-- قرمز فقط برای تأکید گرافیکی به‌کار برود، نه القای مدرک تازه یا پیوند اثبات‌نشده.
+## Continuity and safety
 
-## طرح صدا
-
-نریشن دست‌نخورده و جلوتر از میکس بماند. موسیقی بی‌کلام در زیر نریشن duck شود؛ ورق، مداد، پونز، کلیک مکانیکی و whoosh فقط روی کنش‌های مشخص قرار گیرند. صدای پلیسی، شلیک، آژیر یا ترسناک که واقعیت داستان را القا کند ممنوع است.
-
-## کنترل قبل از تحویل
-
-برچسب خیالی و زیرنویس را در رزولوشن اصلی بررسی کنید؛ هماهنگی رسم خط قرمز با صدای مداد را بیازمایید؛ شروع، ترنزیشن‌های کلیدی و فریم پایان را کنترل کنید؛ کدک/مدت/صدا را با ffprobe تأیید و کل MP4 را رمزگشایی کنید. در حالت «فقط تصویر»، فهرست منابع تصویر باید فقط شامل عکس ثابت و گرافیک باشد.
+The world remains one desk for the entire run; no transition may disguise a cut or reset. Use only approved photos with an asset manifest. All fictional props must remain clearly fictional; never fabricate real-case evidence.

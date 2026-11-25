@@ -1,48 +1,60 @@
-# Editable visual and sound plan
+# Continuous-world beat and render plan
 
 ## Project lock
+- Project / case:
+- Factual / fictional / reconstruction status:
+- Approved script version:
+- Voice file / measured duration / channels / sample rate:
+- Language:
+- Output aspect ratio / resolution / frame rate / codec:
+- Asset reset/reuse rule:
+- Rights/provenance manifest path:
+- Caption policy (off / separate track / selected on-screen text channel):
 
-- Working title:
-- Fictional / factual / reconstruction status:
-- Narration file and measured duration:
-- Aspect ratio / resolution / fps:
-- Picture source mode (stills-only / mixed / supplied footage):
-- Motion energy:
-- Sound-design density:
-- Permanent reconstruction/fiction label:
-
-## Beat map
-
-| Start–end | Spoken information | Visual asset + provenance | Camera move / detail crop | Transition in / out | Animated overlay | SFX / music cue | Caption-safe? |
+## Beat table — approve before code/render
+| Start–end | Verbatim narration | One hero (object / word / document) | Text channel (document OR typeset OR captions OR none) | Exact word/action timing | World coordinates / camera waypoint | Secondary dim plan | Sound cue |
 |---|---|---|---|---|---|---|---|
 | | | | | | | | |
 
-## Still-image manifest
+## Continuous world
+- World/stage metaphor and dimensions:
+- Coordinate convention:
+- Persistent object placements:
+- Camera path / spline / easing:
+- Drift during holds:
+- Maximum camera speed/acceleration:
+- Optional handheld / motion blur / grain / glow / vignette:
+- Verify no camera reset, cuts, dissolves or slide changes:
 
-| File | Source / license | Authentic, illustrative or fictional | Factual claim supported | Motion limits / notes |
-|---|---|---|---|---|
-| | | | | |
-
-## Sound cue sheet
-
-| Timeline | Visible action | SFX asset / trim | Gain target | Narration overlap / ducking | Tail checked? |
+## Asset and rights manifest
+| File | Creator/source/license | Person/place/object | Authentic / illustrative / fictional | Permitted use | Beat(s) |
 |---|---|---|---|---|---|
 | | | | | | |
 
-## Motion principles
+## Text ledger — prevent duplication
+| Phrase | Narrated at | Single screen channel chosen | Exact placement / source document | Duplicate scan passed? |
+|---|---|---|---|---|
+| | | | | |
 
-- Keep one primary focal point at a time.
-- Use pushes, pulls, parallax, crop changes, paper wipes, match cuts, controlled whip transitions and split-screen only when they serve the spoken idea.
-- Reveal pencil lines, circles and clue connections as timed vector strokes; do not imply unsupported evidence relationships.
-- Preserve caption-safe margins and enough hold time for names, dates and citations.
+## Audio cue sheet
+| Timeline / word | Visible action | SFX/music source and rights | Gain / ducking | Tail and voice clarity checked? |
+|---|---|---|---|---|
+| | | | | |
+
+## Pre-render review
+- [ ] Beat table and output format approved by creator.
+- [ ] Voice is the timing authority; original remains untouched.
+- [ ] Each beat has one hero; other elements dim.
+- [ ] Every narrated phrase has at most one visible text representation.
+- [ ] Phone readability and no filler text verified.
+- [ ] Contact sheet has one inspected still for every beat.
+- [ ] Camera sequences inspected around all waypoints; no jerk, dead stop, cut, slide swap or reset.
+- [ ] All input photos have source, rights and use recorded.
+- [ ] No AI video generator, stock footage or unapproved clip is used.
 
 ## Final QC
-
-- [ ] Voice and captions retain the approved wording and timing.
-- [ ] Labels distinguish genuine sources from reconstructions and generated illustrations.
-- [ ] Still-image-only means no clip, stock-video or generated-video input.
-- [ ] Transition moves have visible endpoints and do not obscure captions.
-- [ ] Music stays below narration; Foley is aligned, controlled and non-distorting.
-- [ ] Opening, stable holds, key transitions and end card inspected.
-- [ ] `ffprobe` confirms expected dimensions, frame rate, duration, codecs and audio.
-- [ ] Full output decodes without errors.
+- [ ] MP4 dimensions, fps, codec, duration, audio start/end and streams match the project lock.
+- [ ] Audio remains synchronized and intelligible; no clipping or abrupt tails.
+- [ ] Complete MP4 decodes.
+- [ ] Beginning, each hero beat, transitions and ending inspected at output resolution.
+- [ ] Project source and private assets are not mixed into public plugin source.

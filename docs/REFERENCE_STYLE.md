@@ -1,24 +1,26 @@
-# Reference-inspired visual direction
+# Continuous-world visual direction
 
-The creator-provided reference informed a broad documentary language: a fast “show the result first” opening; dark moody lighting with deep teal and warm accents; muted archival/microfilm textures; red marks for highlighting; short visual beats; concise dossier labels; simplified maps; tactile paper/typewriter sounds; and a driving but subordinate score.
+Build an original cinematic documentary language from the creator's references without copying a specific creator, show, brand, shot, edit, logo, or composition. The core visual metaphor is one persistent, tactile world—such as an archive desk, map table, or evidence board—explored by a single continuous camera move.
 
-Interpret these principles in an original visual system. Do not reproduce the reference tutorial's exact frames, script, brand, edit, voice, footage or assets, and do not imply affiliation with a streaming service or studio.
+## World and camera
 
-## Art direction
+- Use one coordinate system and one spatial layout for the full timeline. Place approved photographs as physical prints, papers, framed images or clippings on that world.
+- Keep the camera path continuous: interpolate position, zoom/scale and rotation smoothly through a spline or equivalent curve. Maintain gentle drift while a beat holds; never freeze, cut, switch slides, dissolve to a new scene, or reset the camera.
+- Let paper and photographs enter the world with physical movement, light and shadows. Keep each object's identity and placement consistent as the camera travels.
+- Use subtle handheld drift, motion blur only on fast moves, a soft vignette, restrained glow and fine film grain. Effects should support clarity, not become the subject.
 
-- **Palette:** near-black charcoal, desaturated teal, warm paper and restrained evidence red.
-- **Surface language:** subtle photocopy grain, case folders, map grids, paper edges and scan lines. Keep texture behind, not over, readable evidence.
-- **Typography:** a clear sans-serif for file labels and high-legibility captions. Use locally available fonts and record any fallback.
-- **Framing:** landscape documentary in 16:9 with optional narrow letterbox; Shorts in 9:16 with platform safe areas.
-- **Motion:** make a still feel like a scene. Use deliberate pans, modest push-ins/pull-outs, layered parallax, animated crops, paper reveals and match cuts. Change the visual idea every 1–3 seconds only when the spoken information changes, and hold long enough to read.
-- **Evidence marks:** reveal red pencil circles, underlines, arrows and connecting lines as animated strokes, following a believable pen path and syncing to Foley. Use a board/relationship reveal only when the relationship is supported by the case facts; for fictional stories, label the board and props as fictional.
-- **Transitions:** rotate among a small coherent set—paper wipe, match cut, map pan, restrained whip-pan, snap zoom and split-screen. Use fast movement for deliberate reveals, not as a constant effect. Preserve captions, names, dates and citations.
-- **Sound:** foreground narration, low percussive atmosphere and sparse paper/typewriter/pencil/pin/soft digital cues. Match effects to visible actions and never imply an undocumented event.
+## Story hierarchy
 
-## Still-image-only option
+- Map every narration line to exactly one hero object, word or document. Dim everything else until that line is complete.
+- Choose one text channel for each phrase: words printed on an approved document, clean typeset text, or captions. Never duplicate the same phrase across a document and overlay/subtitle.
+- Remove filler: no decorative stamps, fake official seals, random tape, tiny labels or readable invented body copy. Use only soft grey rules where a paper surface needs nonverbal texture.
+- Make any essential hero word large enough to read on a phone in about one second. Keep non-hero typography sparse.
+- Land circles, underlines, object drops and route reveals on the corresponding spoken word using actual audio timing, not rough musical intuition.
 
-When selected by the creator, use photographs, illustrations, generated stills, original graphics and typography as the only picture sources. Animate and assemble those stills into the final MP4; do not use video clips or stock footage. Maintain a manifest that distinguishes sourced factual images from fictional or generated illustrations.
+## Palette and material
 
-## Reference analysis summary
+A subdued charcoal/teal environment, warm practical pool of light, paper/wood/metal texture and restrained evidence red can create a premium documentary feel. The reference establishes broad mood only; derive original light, composition and type. Grain, bloom and vignette remain subtle and consistent.
 
-The reference tutorial emphasizes research, moodboarding, a reusable asset list, iterative readability checks and separation of animation design from final sound/edit assembly. Apply that sequence: define the visual system, inventory authentic sources, map one visual idea to each spoken beat, create/source assets, animate and assemble, then verify captions and audio sync.
+## Ethical image use
+
+Use only creator-supplied or permission-cleared photographs for people, places and objects unless another static-asset source is explicitly approved. Track provenance and rights. Do not use video footage, stock clips, generated-video frames or animated-video backgrounds. Do not alter real photographs to fabricate evidence or imply a factual relationship. For fictional cases, label the fiction clearly without crowding the composition.
