@@ -1,0 +1,17 @@
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*token*
+*secret*
+
+# Local runs and generated production data
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+projects/
+outputs/
+.DS_Store
