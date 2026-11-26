@@ -21,7 +21,9 @@ The generic renderer is included both in the repository starter folder and insid
 
 Add `true-crime-video-producer/SKILL.md` in Manus (or use the `.skill` package). Begin with a request such as: “Plan a sourced 60-second true-crime short using my attached narration and approved photos, rendered as one continuous code-built world; show me the beat table before coding.”
 
-The skill first records the exact format, script, measured narration, photo provenance/rights, and privacy limits. It then shows a timestamped table with one hero per narration line and asks for approval before building the world or rendering. If a new project says to forget prior assets, it will not reuse them. Missing audio/photos are requested, not silently replaced.
+For topic discovery, the default slate is three categories with ten researched candidates each. Every option has a short case summary, a documentary hook, a cautious audience-interest note, format fit, sourceability and a current-status caveat. The creator chooses one topic before deep research and scripting. After topic selection, the skill drafts a sourced script for approval, then prepares the requested narration before beat timing.
+
+The skill records the exact format, script, measured narration, photo provenance/rights, and privacy limits. It shows a timestamped table with one hero per narration line and asks for approval before building the world or rendering. If a new project says to forget prior assets, it will not reuse them. Missing audio/photos are requested, not silently replaced.
 
 ## Hard picture rules
 
